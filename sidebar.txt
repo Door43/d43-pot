@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pot:home|Door43 (pot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pot|d43-pot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pot/archive/master.zip|d43-pot.zip]]
+
+**Recent Changes**
+{{changes>ns = pot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pot|Ethnologue data]]
+
